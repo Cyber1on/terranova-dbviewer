@@ -7,7 +7,7 @@
 ## You need your own copy of the game
 
 The viewer contains **no game data**: no game text, no in-game pictures, no models, no music and no
-videos. Everything it shows from the game is read, in your browser, from the files of your own legally bought copy. Nothing is uploaded. Without those files the viewer shows nothing from the game.
+videos. Everything it shows from the game is read from the files of your own legally bought copy. Nothing is uploaded. Without those files the viewer shows nothing from the game.
 You can buy the game here:
 
 - [GOG](https://www.gog.com/game/terra_nova_strike_force_centauri)
