@@ -13,6 +13,15 @@ You can buy the game here:
 - [GOG](https://www.gog.com/game/terra_nova_strike_force_centauri)
 - [Steam](https://store.steampowered.com/app/368600)
 
+## Screenshots
+
+| | |
+|---|---|
+| ![A 3D model](docs/screenshots/3d-model.png) | ![Mission map](docs/screenshots/mission-map.png) |
+| 3D models from the game's own model data | Mission maps with markers and forces |
+| ![Video player](docs/screenshots/video-player.png) | ![Music player](docs/screenshots/music-player.png) |
+| The game's videos, with sound | The game's FM music, played in the browser |
+
 ## What it shows
 
 - Sections: Weapons (14), A.S.F. (12), SFC Suits (3), Enemy Forces (19), Personnel (32), Medals (8),
@@ -142,6 +151,9 @@ the advertisements and posters (Box Art and Ads category) and the *Terra Nova* t
 scans of the original publisher's material. They belong to their respective rights holders, are
 **not** covered by the MIT License, and are included only for preservation and illustration. They
 will be removed on request.
+
+The screenshots in `docs/screenshots` show the game's own text, pictures, models and videos as the viewer displays
+them. That content belongs to its rights holders and is shown only to illustrate what the viewer does.
 
 ### Trademarks and affiliation
 
